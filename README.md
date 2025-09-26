@@ -1,2 +1,2 @@
 # SneakersShopping
-Java-based Sneakers Shopping System using OOP concepts. Includes classes for sneakers, customers, shopping cart, and orders with features like add-to-cart, discounts, and receipts. My part focused on applying encapsulation, inheritance, polymorphism, and abstraction.
+Java-based Sneakers Shopping System implementing OOP principles (Encapsulation, Inheritance, Polymorphism, Abstraction). Features include user registration, login, sneaker management, shopping cart, payment processing, and feedback system.
